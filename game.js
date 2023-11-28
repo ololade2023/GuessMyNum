@@ -1,5 +1,4 @@
-// alert('Welcome to Guess The Number');
-
+alert('Welcome to Guess The Number');
 let guessNum = Math.trunc(Math.random() * 20) + 1;
 let highscore = 0;
 let score = 20;
